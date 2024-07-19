@@ -1,5 +1,5 @@
 # Battleship Game
-### Author: Susan Davis, sed2001@ad.unc.edu, Onyen=sed2001
+### Author: Susan Davis, sedavis9@ncsu.edu
 
 ## Overview
 The Battleship Game is a Python implementation of the classic board game "Battleship." This game allows for either one or two players to play against each other. In the single-player mode, the player competes against a computer-controlled opponent. The game continues until one player's fleet is entirely sunk.
@@ -67,4 +67,4 @@ The `ComputerPlayer` class represents a player controlled by a random number gen
 - The player whose fleet remains afloat is declared the winner.
 
 ## Contact
-For any issues or inquiries, please contact Susan Davis at sed2001@ad.unc.edu.
+For any issues or inquiries, please contact Susan Davis at sedavis9@ncsu.edu
