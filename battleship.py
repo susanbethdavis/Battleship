@@ -12,8 +12,6 @@ class BattleshipGame:
     def __init__(self, num_of_players):
         # Create the players.
         if num_of_players == 1:
-            # self.players = [HumanPlayer("Player 1"), HumanPlayer("The Computer")]
-            # IN YOUR SOLUTION, ERASE THE LINE ABOVE AND UNCOMMENT THE LINE BELOW. THEN ADD CODE FOR THE ComputerPlayer.
             self.players = [HumanPlayer("Player 1"), ComputerPlayer("The Computer")]
         else:
             self.players = [HumanPlayer("Player 1"), HumanPlayer("Player 2")]
